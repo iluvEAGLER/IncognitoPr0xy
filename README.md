@@ -2,6 +2,9 @@
 
 https://burnedpopcorn.github.io/Client_Select.html
 
+Tab Cloaker Version 
+https://iluveagler.github.io/pocolocolocopocofoke.github.io/Client_Select.html
+
 A website that hosts and provides many vanilla and modified EaglerCraft Clients with a clean UI, and a 1.8 server list
 
 ## Update (6/15/24)
