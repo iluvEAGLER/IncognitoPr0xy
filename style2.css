@@ -1,3 +1,16 @@
 h1 {
-  border-radius
+  border-radius: 5px;
+  border-style: solid;
+  border-color: DarkViolet;
+  color: DarkViolet;
+}
+
+body {
+  backround-color: black;
+}
+
+img {
+  border-style: solid;
+  border-radius: 2px;
+  border-color: DarkViolet;
 }
