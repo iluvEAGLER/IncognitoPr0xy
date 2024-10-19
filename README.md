@@ -1,9 +1,9 @@
 # EaglerCraft Client Selector
 
-https://burnedpopcorn.github.io/Client_Select.html
+https://
 
-Masons Version 
-https://iluveagler.github.io/pocolocolocopocofoke.github.io/Client_Select.html
+My Verson Link:
+LOL L luke ryder i took this down just in time
 
 A website that hosts and provides many vanilla and modified EaglerCraft Clients with a clean UI, and a 1.8 server list
 
